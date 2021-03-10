@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Halil\\Documents\\Repos\\FleetAPI\\FleetAPI\\FleetAPI.csproj": {}
+    "C:\\Users\\Halil\\Documents\\Repos\\React-FleetAPI\\FleetAPI\\FleetAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Halil\\Documents\\Repos\\FleetAPI\\FleetAPI\\FleetAPI.csproj": {
+    "C:\\Users\\Halil\\Documents\\Repos\\React-FleetAPI\\FleetAPI\\FleetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Halil\\Documents\\Repos\\FleetAPI\\FleetAPI\\FleetAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Halil\\Documents\\Repos\\React-FleetAPI\\FleetAPI\\FleetAPI.csproj",
         "projectName": "FleetAPI",
-        "projectPath": "C:\\Users\\Halil\\Documents\\Repos\\FleetAPI\\FleetAPI\\FleetAPI.csproj",
+        "projectPath": "C:\\Users\\Halil\\Documents\\Repos\\React-FleetAPI\\FleetAPI\\FleetAPI.csproj",
         "packagesPath": "C:\\Users\\Halil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Halil\\Documents\\Repos\\FleetAPI\\FleetAPI\\obj\\",
+        "outputPath": "C:\\Users\\Halil\\Documents\\Repos\\React-FleetAPI\\FleetAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
@@ -94,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
